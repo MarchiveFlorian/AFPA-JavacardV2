@@ -1,0 +1,39 @@
+.text-field-error {
+    -fx-border-color: red;
+    -fx-border-width: 2px;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+    -fx-border-insets: 0px;
+}
+
+.combo-box-error {
+    -fx-border-color: red;
+    -fx-border-width: 2px;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+    -fx-border-insets: 0px;
+}
+
+.date-picker-error {
+    -fx-border-color: red;
+    -fx-border-width: 2px;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+    -fx-border-insets: 0px;
+}
+
+.button-error {
+    -fx-border-color: red;
+    -fx-border-width: 2px;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+    -fx-border-insets: -2px;
+  }
+
+.button-success {
+    -fx-border-color: rgb(35, 203, 35);
+    -fx-border-width: 2px;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+    -fx-border-insets: -2px;
+}
